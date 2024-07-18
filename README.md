@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Michael Cordones 👋
 
 <!--
 **MichaelC27/MichaelC27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
